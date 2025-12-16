@@ -377,6 +377,17 @@ body {
     line-height: 1.4;
 }
 
+.publication-item h4 a {
+    color: var(--text-primary);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.publication-item h4 a:hover {
+    color: var(--primary-color);
+    text-decoration: underline;
+}
+
 .authors {
     color: var(--text-secondary);
     font-size: 0.95rem;
@@ -406,6 +417,15 @@ body {
     font-size: 0.9rem;
     font-style: italic;
     margin-top: 0.5rem;
+}
+
+.note a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+.note a:hover {
+    text-decoration: underline;
 }
 
 /* Skills */

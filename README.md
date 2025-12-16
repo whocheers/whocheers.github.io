@@ -149,6 +149,4 @@ Copyright © 2025 Desheng Hu. All rights reserved.
 
 ## Contact
 
-- Email: hudeshengnpu@gmail.com
-- Phone: (+41) 767115225
 - Location: University of Zurich, Switzerland

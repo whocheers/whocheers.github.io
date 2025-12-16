@@ -1,26 +1,20 @@
 # Desheng Hu - Personal Website
 
-A modern, responsive personal website showcasing my research, publications, and professional experience in Algorithm Auditing, Social Computing, and Responsible AI.
+Personal website for my research and professional profile.
 
-## Features
+## Sections
 
-- Responsive design that works on all devices
-- Smooth scrolling navigation
-- Animated sections with scroll effects
-- Professional layout with sections for:
-  - Education
-  - Work Experience
-  - Publications
-  - Skills
-  - Awards & Honors
-  - Contact Information
+- Education
+- Work Experience
+- Publications
+- Skills
+- Awards & Honors
+- Contact Information
 
-## Technologies Used
+## Technologies
 
-- HTML5
-- CSS3 (with modern features like CSS Grid and Flexbox)
-- Vanilla JavaScript (no frameworks required)
-- Google Fonts (Inter font family)
+- HTML/CSS/JavaScript
+- Google Fonts (Inter)
 
 ## Setup Instructions
 
@@ -89,9 +83,7 @@ Before pushing to GitHub, you should update the Google Scholar link in `index.ht
 
 ### Color Scheme
 
-The current color scheme uses professional blue tones. To change:
-
-Edit the CSS variables in `styles.css`:
+To change colors, edit the CSS variables in `styles.css`:
 ```css
 :root {
     --primary-color: #2563eb;

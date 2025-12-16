@@ -142,7 +142,3 @@ document.querySelectorAll('.tag').forEach(tag => {
     });
 });
 
-// Console message for developers
-console.log('%cHello! 👋', 'color: #2563eb; font-size: 20px; font-weight: bold;');
-console.log('%cInterested in my work? Feel free to reach out!', 'color: #6b7280; font-size: 14px;');
-console.log('%cEmail: hudeshengnpu@gmail.com', 'color: #6b7280; font-size: 14px;');
